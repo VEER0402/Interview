@@ -16,3 +16,18 @@ So cloud platforms host the application, while DevOps tools automate how code mo
 | Kubernetes       | EKS         |
 
 
+
+
+
+
+| Tool                | Kaam                              |
+| ------------------- | --------------------------------- |
+| **Azure Repos**     | Git code repository (like GitHub) |
+| **Azure Pipelines** | CI/CD pipelines                   |
+| **Azure Boards**    | Task & sprint tracking            |
+| **Azure Artifacts** | Package storage                   |
+
+
+
+
+
