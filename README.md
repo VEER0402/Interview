@@ -1,6 +1,11 @@
 # Interview ready
 
 
+<img width="1024" height="1024" alt="clod" src="https://github.com/user-attachments/assets/bb2f5d09-96a2-49c7-a639-9bb8c9c4c981" />
+
+
+
+
 Azure and AWS Cloud are infrastructure platforms where applications run — providing compute, networking, storage, and Kubernetes services.
 
 Azure DevOps and AWS DevOps tools are software delivery toolchains used for source control, CI/CD, and release management.
